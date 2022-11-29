@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/kingmusab-tmt/Frontend-Mentor---3-column-preview-card-component-solution.git)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://kingmusab-tmt.github.io/Frontend-Mentor---3-column-preview-card-component-solution/)
 
 
 ### Built with
